@@ -1,0 +1,14 @@
+/**start glassmorphism style**/
+
+.page, .site-footer .site-primary-footer-wrap, .site-below-footer-wrap
+{
+   background: rgb(9,35,78) !important;
+   background: linear-gradient(70deg, rgba(9,35,78,1) 9%, rgba(130,4,129,1) 59%, rgba(255,192,203,1) 90%) !important; 
+}
+
+.glass
+{
+    
+}
+
+/**end glassmorphism style**/
